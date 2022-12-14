@@ -1,6 +1,4 @@
 #EXTM3U
-# SCTV_HQTH
-
 #EXTINF:-1 tvg-id="sctv6hd" tvg-logo="https://pbs.twimg.com/media/Fa6qGZJagAM5Dvo?format=png", SCTV6
 #EXTGRP:SCTV
 http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
