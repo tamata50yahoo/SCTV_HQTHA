@@ -38,11 +38,13 @@ https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv2hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
 #EXTGRP:VTV
-https://livecdn.fptplay.net/sevent/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/sevent/vtv2_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtv3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 #EXTGRP:VTV
-https://livecdn.fptplay.net/sevent/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/sevent/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://cdn.hqth.me/logo/thumbs/94.png", Quốc Phòng TV
 #EXTGRP:VTV
@@ -105,9 +107,10 @@ https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv13/index.m3u8|Referer=https:/
 #EXTGRP:VTV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 
-#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV6
+#EXTINF:-1 tvg-id="vtv6hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
 #EXTGRP:VTV
-https://livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/sevent/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="sctv11hd" tvg-logo="https://pbs.twimg.com/media/Fa6qJmNaMAA_HU3?format=png", SCTV11
 #EXTGRP:SCTV
@@ -127,7 +130,8 @@ https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 #EXTGRP:VTV
-https://livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/sevent/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sport plus
 #EXTGRP:VTVcab
